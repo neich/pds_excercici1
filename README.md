@@ -1,6 +1,6 @@
 # PDS Exercici 1 - Plantilla Android
 
-Plantilla base per als exercicis de l'assignatura de **Programació de Dispositius i Sistemes (PDS)**.
+Plantilla base per als exercicis de l'assignatura de **Projecte de desenvolupament de software (PDS) a la UdG**.
 
 ## 📋 Requisits
 
